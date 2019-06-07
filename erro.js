@@ -12,5 +12,5 @@ function imprimirNomeGritado(obj){
     }
 }
 
-const obj = { nome: 'Roberto' }
+const obj = { name: 'Roberto' }
 imprimirNomeGritado(obj)
